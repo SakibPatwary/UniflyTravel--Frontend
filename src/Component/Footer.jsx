@@ -5,7 +5,7 @@ export class Footer extends Component {
         return (
             <div>
                 <footer>
-                    <div classclassName="container">
+                    <div className="container">
                         <div className="social text-center">
                             <a href="#"><i className="fa fa-twitter"></i></a>
                             <a href="#"><i className="fa fa-facebook"></i></a>

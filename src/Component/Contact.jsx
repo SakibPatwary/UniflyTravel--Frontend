@@ -20,17 +20,17 @@ export class Contact extends Component {
 
                                 <div className="col-sm-4">
                                     <div className="form-group">
-                                        <label for="name">Name</label>
+                                        <label htmlFor="name">Name</label>
                                         <input type="text" className="form-control" name="name" id="name" placeholder="Enter name" title="Please enter your name (at least 2 characters)" />
                                     </div>
                                     <div className="form-group">
-                                        <label for="email">Email</label>
+                                        <label htmlFor="email">Email</label>
                                         <input type="email" className="form-control" name="email" id="email" placeholder="Enter email" title="Please enter a valid email address" />
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="form-group">
-                                        <label for="comments">Comments</label>
+                                        <label htmlFor="comments">Comments</label>
                                         <textarea name="comment" className="form-control" id="comments" cols="3" rows="5" placeholder="Enter your message…" title="Please enter your message (at least 10 characters)"></textarea>
                                     </div>
                                     <button name="submit" type="submit" className="btn btn-lg btn-primary" id="submit">Submit</button>

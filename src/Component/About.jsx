@@ -7,7 +7,7 @@ export class About extends Component {
                 <section id="aboutUs" className="secPad">
     	<div className="container">
 
-            <div classclassName="heading text-center">
+            <div className="heading text-center">
                 <h2>About Us</h2>
             </div>
             <div className="row">
