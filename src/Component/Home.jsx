@@ -24,14 +24,10 @@ export class Home extends Component {
                       <h5>Tour Plan</h5>
                       <div className="divider-header"></div>
                       <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit
-                        voluptatem accusantium doloremque laudantium, totam
-                        rquia.
+                        We can planned your tour efficiently & you can stay
+                        worryless
                         <br />
                       </p>
-                      <a href="#" className="btn btn-skin">
-                        Learn more
-                      </a>
                     </div>
                   </div>
                 </div>
@@ -44,14 +40,10 @@ export class Home extends Component {
                       <h5>Travel Plan</h5>
                       <div className="divider-header"></div>
                       <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit
-                        voluptatem accusantium doloremque laudantium, totam
-                        rquia.
+                        For any kind of travel we can help you. Feel free to
+                        contact us.
                         <br />
                       </p>
-                      <a href="#" className="btn btn-skin">
-                        Learn more
-                      </a>
                     </div>
                   </div>
                 </div>
@@ -64,14 +56,10 @@ export class Home extends Component {
                       <h5>Stay Plan</h5>
                       <div className="divider-header"></div>
                       <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit
-                        voluptatem accusantium doloremque laudantium, totam
-                        rquia.
+                        If you planned for an tour & u want to stay there we can
+                        make that for you.
                         <br />
                       </p>
-                      <a href="#" className="btn btn-skin">
-                        Learn more
-                      </a>
                     </div>
                   </div>
                 </div>
@@ -83,8 +71,8 @@ export class Home extends Component {
         <section id="packages" className="secPad">
           <div className="container">
             <div className="heading text-center">
-              <h2>Most Popular Packages</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+              <h2>Most Popular Places</h2>
+              <p>Here are some popular places that you can visit now.</p>
             </div>
             <div className="row">
               <div className="col-md-3 col-sm-6">
@@ -102,14 +90,11 @@ export class Home extends Component {
                   <div className="caption">
                     <div className="blur"></div>
                     <div className="caption-text">
-                      <h3>Place Name</h3>
+                      <h3>INDIA</h3>
                       <p>
                         Loren ipsum dolor si amet ipsum dolor si amet ipsum
                         dolor...
                       </p>
-                      <a className=" btn btn-default" href="#">
-                        <i className="fa fa-chevron-circle-right"> Get It!</i>
-                      </a>
                     </div>
                   </div>
                 </div>
@@ -129,14 +114,11 @@ export class Home extends Component {
                   <div className="caption">
                     <div className="blur"></div>
                     <div className="caption-text">
-                      <h3>Place Name</h3>
+                      <h3>AUSTRALIA</h3>
                       <p>
                         Loren ipsum dolor si amet ipsum dolor si amet ipsum
                         dolor...
                       </p>
-                      <a className=" btn btn-default" href="#">
-                        <i className="fa fa-chevron-circle-right"> Get It!</i>
-                      </a>
                     </div>
                   </div>
                 </div>
@@ -156,14 +138,11 @@ export class Home extends Component {
                   <div className="caption">
                     <div className="blur"></div>
                     <div className="caption-text">
-                      <h3>Place Name</h3>
+                      <h3>THAILAND</h3>
                       <p>
                         Loren ipsum dolor si amet ipsum dolor si amet ipsum
                         dolor...
                       </p>
-                      <a className=" btn btn-default" href="#">
-                        <i className="fa fa-chevron-circle-right"> Get It!</i>
-                      </a>
                     </div>
                   </div>
                 </div>
@@ -183,14 +162,11 @@ export class Home extends Component {
                   <div className="caption">
                     <div className="blur"></div>
                     <div className="caption-text">
-                      <h3>Place Name</h3>
+                      <h3>MALAYSIA</h3>
                       <p>
                         Loren ipsum dolor si amet ipsum dolor si amet ipsum
                         dolor...
                       </p>
-                      <a className=" btn btn-default" href="#">
-                        <i className="fa fa-chevron-circle-right"> Get It!</i>
-                      </a>
                     </div>
                   </div>
                 </div>
@@ -212,14 +188,11 @@ export class Home extends Component {
                   <div className="caption">
                     <div className="blur"></div>
                     <div className="caption-text">
-                      <h3>Place Name</h3>
+                      <h3>CANADA</h3>
                       <p>
                         Loren ipsum dolor si amet ipsum dolor si amet ipsum
                         dolor...
                       </p>
-                      <a className=" btn btn-default" href="#">
-                        <i className="fa fa-chevron-circle-right"> Get It!</i>
-                      </a>
                     </div>
                   </div>
                 </div>
@@ -239,14 +212,11 @@ export class Home extends Component {
                   <div className="caption">
                     <div className="blur"></div>
                     <div className="caption-text">
-                      <h3>Place Name</h3>
+                      <h3>NEPAL</h3>
                       <p>
                         Loren ipsum dolor si amet ipsum dolor si amet ipsum
                         dolor...
                       </p>
-                      <a className=" btn btn-default" href="#">
-                        <i className="fa fa-chevron-circle-right"> Get It!</i>
-                      </a>
                     </div>
                   </div>
                 </div>
@@ -266,14 +236,11 @@ export class Home extends Component {
                   <div className="caption">
                     <div className="blur"></div>
                     <div className="caption-text">
-                      <h3>Place Name</h3>
+                      <h3>CHINA</h3>
                       <p>
                         Loren ipsum dolor si amet ipsum dolor si amet ipsum
                         dolor...
                       </p>
-                      <a className=" btn btn-default" href="#">
-                        <i className="fa fa-chevron-circle-right"> Get It!</i>
-                      </a>
                     </div>
                   </div>
                 </div>
@@ -293,14 +260,11 @@ export class Home extends Component {
                   <div className="caption">
                     <div className="blur"></div>
                     <div className="caption-text">
-                      <h3>Place Name</h3>
+                      <h3>UNITED KINGDOM</h3>
                       <p>
                         Loren ipsum dolor si amet ipsum dolor si amet ipsum
                         dolor...
                       </p>
-                      <a className=" btn btn-default" href="#">
-                        <i className="fa fa-chevron-circle-right"></i> Get It!
-                      </a>
                     </div>
                   </div>
                 </div>
@@ -321,169 +285,101 @@ export class Home extends Component {
           </div>
         </section>
 
-        <section
-          id="portfolio"
-          className="page-section section appear clearfix secPad"
-        >
-          <div className="container">
-            <div className="heading text-center">
-              <h2>Gallery</h2>
-              <p>POPULAR PLACES WITH PHOTOS</p>
-            </div>
-
-            <div className="row">
-              <div className="col-md-12">
-                <div className="row">
-                  <div className="portfolio-items isotopeWrapper clearfix" id="3">
-                    <article className="col-sm-4 isotopeItem webdesign">
-                      <div className="portfolio-item">
-                        <img src="images/portfolio/img1.jpg" alt="" />
-                        <div className="portfolio-desc align-center">
-                          <div className="folio-Get It!">
-                            <a
-                              href="images/portfolio/img1.jpg"
-                              className="fancybox"
-                            >
-                              <i className="fa fa-arrows-alt fa-2x"></i>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </article>
-
-                    <article className="col-sm-4 isotopeItem photography">
-                      <div className="portfolio-item">
-                        <img src="images/portfolio/img2.jpg" alt="" />
-                        <div className="portfolio-desc align-center">
-                          <div className="folio-Get It!">
-                            <a
-                              href="images/portfolio/img2.jpg"
-                              className="fancybox"
-                            >
-                              <i className="fa fa-arrows-alt fa-2x"></i>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </article>
-
-                    <article className="col-sm-4 isotopeItem photography">
-                      <div className="portfolio-item">
-                        <img src="images/portfolio/img3.jpg" alt="" />
-                        <div className="portfolio-desc align-center">
-                          <div className="folio-Get It!">
-                            <a
-                              href="images/portfolio/img3.jpg"
-                              className="fancybox"
-                            >
-                              <i className="fa fa-arrows-alt fa-2x"></i>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </article>
-
-                    <article className="col-sm-4 isotopeItem print">
-                      <div className="portfolio-item">
-                        <img src="images/portfolio/img4.jpg" alt="" />
-                        <div className="portfolio-desc align-center">
-                          <div className="folio-Get It!">
-                            <a
-                              href="images/portfolio/img4.jpg"
-                              className="fancybox"
-                            >
-                              <i className="fa fa-arrows-alt fa-2x"></i>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </article>
-
-                    <article className="col-sm-4 isotopeItem photography">
-                      <div className="portfolio-item">
-                        <img src="images/portfolio/img5.jpg" alt="" />
-                        <div className="portfolio-desc align-center">
-                          <div className="folio-Get It!">
-                            <a
-                              href="images/portfolio/img5.jpg"
-                              className="fancybox"
-                            >
-                              <i className="fa fa-arrows-alt fa-2x"></i>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </article>
-
-                    <article className="col-sm-4 isotopeItem webdesign">
-                      <div className="portfolio-item">
-                        <img src="images/portfolio/img6.jpg" alt="" />
-                        <div className="portfolio-desc align-center">
-                          <div className="folio-Get It!">
-                            <a
-                              href="images/portfolio/img6.jpg"
-                              className="fancybox"
-                            >
-                              <i className="fa fa-arrows-alt fa-2x"></i>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </article>
-
-                    <article className="col-sm-4 isotopeItem print">
-                      <div className="portfolio-item">
-                        <img src="images/portfolio/img7.jpg" alt="" />
-                        <div className="portfolio-desc align-center">
-                          <div className="folio-Get It!">
-                            <a
-                              href="images/portfolio/img7.jpg"
-                              className="fancybox"
-                            >
-                              <i className="fa fa-arrows-alt fa-2x"></i>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </article>
-
-                    <article className="col-sm-4 isotopeItem photography">
-                      <div className="portfolio-item">
-                        <img src="images/portfolio/img8.jpg" alt="" />
-                        <div className="portfolio-desc align-center">
-                          <div className="folio-Get It!">
-                            <a
-                              href="images/portfolio/img8.jpg"
-                              className="fancybox"
-                            >
-                              <i className="fa fa-arrows-alt fa-2x"></i>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </article>
-
-                    <article className="col-sm-4 isotopeItem print">
-                      <div className="portfolio-item">
-                        <img src="images/portfolio/img9.jpg" alt="" />
-                        <div className="portfolio-desc align-center">
-                          <div className="folio-Get It!">
-                            <a
-                              href="images/portfolio/img9.jpg"
-                              className="fancybox"
-                            >
-                              <i className="fa fa-arrows-alt fa-2x"></i>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </article>
-                  </div>
-                </div>
-              </div>
+        <div className="container">
+          <div className="heading text-center"><br/>
+            <h2>Gallery</h2>
+            <p>POPULAR PLACES WITH PHOTOS</p>
+          </div>
+          <div className="card">
+            <div className="card__image-holder">
+              <img
+                className="card__image"
+                src="https://source.unsplash.com/300x225/?wave"
+                alt="wave"
+              />
             </div>
           </div>
-        </section>
+
+          <div className="card">
+            <div className="card__image-holder">
+              <img
+                className="card__image"
+                src="https://source.unsplash.com/300x225/?beach"
+                alt="beach"
+              />
+            </div>
+          </div>
+
+          <div className="card">
+            <div className="card__image-holder">
+              <img
+                className="card__image"
+                src="https://source.unsplash.com/300x225/?mountain"
+                alt="mountain"
+              />
+            </div>
+          </div>
+
+          <div className="card">
+            <div className="card__image-holder">
+              <img
+                className="card__image"
+                src="https://source.unsplash.com/300x225/?field"
+                alt="field"
+              />
+            </div>
+          </div>
+
+          <div className="card">
+            <div className="card__image-holder">
+              <img
+                className="card__image"
+                src="https://source.unsplash.com/300x225/?water"
+                alt="water"
+              />
+            </div>
+          </div>
+
+          <div className="card">
+            <div className="card__image-holder">
+              <img
+                className="card__image"
+                src="https://source.unsplash.com/300x225/?river"
+                alt="river"
+              />
+            </div>
+          </div>
+
+          <div className="card">
+            <div className="card__image-holder">
+              <img
+                className="card__image"
+                src="https://source.unsplash.com/300x225/?kite"
+                alt="kite"
+              />
+            </div>
+          </div>
+
+          <div className="card">
+            <div className="card__image-holder">
+              <img
+                className="card__image"
+                src="https://source.unsplash.com/300x225/?underwater"
+                alt="underwater"
+              />
+            </div>
+          </div>
+
+          <div className="card">
+            <div className="card__image-holder">
+              <img
+                className="card__image"
+                src="https://source.unsplash.com/300x225/?desert"
+                alt="desert"
+              />
+            </div>
+          </div>
+        </div>
 
         <section
           id="testimonial"
@@ -523,7 +419,7 @@ export class Home extends Component {
                             <img
                               className="img-circle"
                               src="images/person_1.png"
-                              style={{width: "100px", height: "100px"}}
+                              style={{ width: "100px", height: "100px" }}
                             />
                           </div>
                           <div className="col-sm-9">
@@ -543,7 +439,7 @@ export class Home extends Component {
                             <img
                               className="img-circle"
                               src="images/person_2.png"
-                              style={{width: "100px", height: "100px"}}
+                              style={{ width: "100px", height: "100px" }}
                             />
                           </div>
                           <div className="col-sm-9">
@@ -563,7 +459,7 @@ export class Home extends Component {
                             <img
                               className="img-circle"
                               src="images/person_3.png"
-                              style={{width: "100px", height: "100px"}}
+                              style={{ width: "100px", height: "100px" }}
                             />
                           </div>
                           <div className="col-sm-9">
